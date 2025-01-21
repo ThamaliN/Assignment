@@ -1,0 +1,57 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: 200px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+   
+
+
+}
+h1{
+    text-align: center;
+   font-size: 45px;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+figcaption{
+    font-style: italic;
+    color: rgb(255, 0, 76);
+    text-align: center;
+    
+
+
+}
+
+nav a:hover{
+    color: red;
+    text-decoration: dotted;
+}
+
+.lead{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(5, 15, 61);
+    font-style: italic;
+    font-weight: 400;
+   
+}
+
+footer{
+    
+    background-color: rgb(114, 224, 169);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 350px;
+    padding-right: 350px;
+    font-style: italic;
+    font-size: larger;
+    
+}
